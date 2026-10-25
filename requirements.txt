@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+groq
+supabase
+youtube-transcript-api
+pypdf
+edge-tts
+pandas
